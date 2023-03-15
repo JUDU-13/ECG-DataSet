@@ -1,5 +1,0 @@
-get the image dataset 
-split the dataset 
-train the model 
-test the accuracy and the performance measures 
-display output
